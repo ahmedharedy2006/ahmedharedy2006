@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Tech Lead – Full Stack Developer** who enjoys building modern, scalable, and efficient web and mobile applications.
+I'm a **Full Stack Developer** who enjoys building modern, scalable, and efficient web and mobile applications.
 
 I specialize in delivering robust, maintainable, and high-performance solutions using modern development stacks and architectural patterns.
 
@@ -25,18 +25,7 @@ I specialize in delivering robust, maintainable, and high-performance solutions 
 - Build scalable full-stack systems from the ground up.
 - Lead architecture and development for enterprise cross-platform apps.
 - Create reusable components, design systems, and developer tools.
-- Mentor developers and ensure high-quality codebases.
-
----
-
-### 🏢 Current Role
-
-**Tech Lead – Full Stack Developer** @ *Smart Vision IT Solutions*  
-- Leading project teams and supervising backend development.  
-- Conducting technical interviews and reviewing code quality.  
-- Designing scalable system architectures for enterprise solutions.
-
----
+- Mentor developers and foster collaboration
 
 ### 🎓 Community Involvement
 
