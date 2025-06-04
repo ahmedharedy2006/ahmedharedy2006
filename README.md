@@ -13,9 +13,12 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="www.linkedin.com/in/ahmed-hariedy-a21150217" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/ahmedhariedy200" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
@@ -24,7 +27,7 @@
 
 ###
 
-<p align="left">Hi there! I'm Ahmed Haredy, a passionate Full Stack Developer who enjoys building modern, scalable, and efficient web and mobile applications.<br><br>I specialize in delivering robust, maintainable, and high-performance solutions using modern development stacks and architectural patterns.<br><br>🛠️ What I Do<br>Build scalable full-stack systems from the ground up<br><br>Lead architecture and development for cross-platform enterprise apps<br><br>Create reusable components, design systems, and developer tools<br><br>Mentor teams and contribute to clean, high-quality codebases<br><br>📫 Let’s Connect<br>I’m always open to interesting discussions, collaboration, and challenging projects.</p>
+<p align="left">Hi there! I'm Ahmed Haredy, a passionate Full Stack Developer who enjoys building modern, scalable, and efficient web and mobile applications.<br><br>I specialize in delivering robust, maintainable, and high-performance solutions using modern development stacks and architectural patterns.<br><br>🛠️ What I Do<br>Build scalable full-stack systems from the ground up<br><br>Lead architecture and development for cross-platform enterprise apps<br><br>Create reusable components, design systems, and developer tools<br><br>Mentor teams and contribute to clean, high-quality codebases</p>
 
 ###
 
@@ -65,15 +68,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedharedy2006/ahmedharedy2006/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedharedy2006/ahmedharedy2006/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmedharedy2006/ahmedharedy2006/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
