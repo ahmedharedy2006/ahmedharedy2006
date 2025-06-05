@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full Stack Developer** who enjoys building modern, scalable, and efficient web and mobile applications.
+I'm a **Full Stack & Cross-Platform Developer** who enjoys building modern, scalable, and efficient web and mobile applications.
 
 I specialize in delivering robust, maintainable, and high-performance solutions using modern development stacks and architectural patterns.
 
