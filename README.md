@@ -11,6 +11,18 @@
   <a href="https://x.com/ahmedhariedy200" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
+  <a href="https://dev.to/ahmedharedy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=devdotto&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to logo" />
+  </a>
+  <a href="https://medium.com/@ahassan200695" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo" />
+  </a>
+  <a href="https://www.c-sharpcorner.com/members/ahmed-hariedy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CSharpCorner&logo=microsoft&label=&color=68217A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="c# corner logo" />
+  </a>
+  <a href="https://www.ahmedharedy.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=blueviolet&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio link" />
+  </a>
 </div>
 
 ---
@@ -25,7 +37,7 @@ I specialize in delivering robust, maintainable, and high-performance solutions 
 - Build scalable full-stack systems from the ground up.
 - Lead architecture and development for enterprise cross-platform apps.
 - Create reusable components, design systems, and developer tools.
-- Mentor developers and foster collaboration
+- Mentor developers and foster collaboration.
 
 ### 🎓 Community Involvement
 
